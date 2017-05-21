@@ -2,6 +2,13 @@
 <html>
 <head>
 	<title>Shristi Packaging Company Pvt. Ltd.</title>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+	<meta name="copyright" content="Shristi Packaging Industry" />
+	<meta name="description" content="Shristi Packaging Industry is the best tea packaging industry in Nepal." />
+	<meta name="keywords" content="tea, nepal, ilam, kathmandu, packaging, pack, himmat, himmat tea, export, quality, export quality, usa, britain, london, healthy, herbal, tea for health" />
+	<meta name="robots" content="index,follow" />
+	<meta name="DC.title" content="Shristi Packaging Industry Nepal" />
+	<meta name="author" content="Milan Bastola" />
 	<link rel="stylesheet" type="text/css" href="css/style.css">
 	<link rel="stylesheet" href="css/slider.css">
 	<script type="text/javascript" src="js/custom.js"></script>
